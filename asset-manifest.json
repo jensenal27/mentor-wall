@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mentor-wall/static/css/main.c65b2bb3.chunk.css",
+    "main.js": "/mentor-wall/static/js/main.facdd7c3.chunk.js",
+    "main.js.map": "/mentor-wall/static/js/main.facdd7c3.chunk.js.map",
+    "runtime-main.js": "/mentor-wall/static/js/runtime-main.4dcad1c0.js",
+    "runtime-main.js.map": "/mentor-wall/static/js/runtime-main.4dcad1c0.js.map",
+    "static/js/2.4de1a661.chunk.js": "/mentor-wall/static/js/2.4de1a661.chunk.js",
+    "static/js/2.4de1a661.chunk.js.map": "/mentor-wall/static/js/2.4de1a661.chunk.js.map",
+    "index.html": "/mentor-wall/index.html",
+    "precache-manifest.e0470c2b1a7202e0879649b05c24f81c.js": "/mentor-wall/precache-manifest.e0470c2b1a7202e0879649b05c24f81c.js",
+    "service-worker.js": "/mentor-wall/service-worker.js",
+    "static/css/main.c65b2bb3.chunk.css.map": "/mentor-wall/static/css/main.c65b2bb3.chunk.css.map",
+    "static/js/2.4de1a661.chunk.js.LICENSE": "/mentor-wall/static/js/2.4de1a661.chunk.js.LICENSE",
+    "static/media/door.svg": "/mentor-wall/static/media/door.26c8e9e3.svg",
+    "static/media/mail.svg": "/mentor-wall/static/media/mail.2b424c97.svg",
+    "static/media/reset.svg": "/mentor-wall/static/media/reset.7b017f40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dcad1c0.js",
+    "static/js/2.4de1a661.chunk.js",
+    "static/css/main.c65b2bb3.chunk.css",
+    "static/js/main.facdd7c3.chunk.js"
+  ]
+}
