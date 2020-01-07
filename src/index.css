@@ -1,0 +1,18 @@
+body {
+  font-family: "muli";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1e272e;
+  font-family: 'muli';
+  box-sizing: border-box;
+  display: grid;
+}
+
+#root{
+  height: 98vh;
+  width: 98vw;
+  justify-self: center;
+  align-self: center;
+  display: grid;
+  overflow: hidden;
+}
